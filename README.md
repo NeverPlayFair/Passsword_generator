@@ -1,4 +1,5 @@
 Open through index.html file or live server.
+The program can help generate difficult passwords used in companies that use ISO 27001
 
 Features:
 Password Length Slider and Input:
