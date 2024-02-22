@@ -1,0 +1,33 @@
+h3 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+/* Przycisk kopiowania */
+#clipboard {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+/* Etykiety checkboxów */
+.form-check-label {
+    color: #333;
+}
+
+/* Przycisk generowania hasła */
+#generate-password {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+/* Przycisk generowania hasła po najechaniu myszką */
+#generate-password:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Kolor tła generatora hasła */
+.password-generator {
+    background-color: #f8f9fa;
+}
