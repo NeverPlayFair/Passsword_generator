@@ -1,5 +1,3 @@
-Password Generator
-This program is a web-based password generator built using HTML, CSS, and JavaScript. It allows users to generate strong and secure passwords with various options such as password length, inclusion of uppercase letters, lowercase letters, numbers, and symbols.
 
 Features:
 Password Length Slider and Input:
