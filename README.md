@@ -1,3 +1,4 @@
+Open through index.html file or live server.
 
 Features:
 Password Length Slider and Input:
